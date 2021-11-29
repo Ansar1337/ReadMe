@@ -19,7 +19,7 @@
 
 <img alt="Ansar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ansar1337&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansar1337)](https://github.com/Ansar1337/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ansar1337&theme=tokyonight)](https://github.com/Ansar1337/github-readme-stats)
 
 [website]: https://ansar-codes.netlify.app/
 
