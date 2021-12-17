@@ -3,7 +3,7 @@
 ## I'm a Computer Science Student at Brunel University!
 
 - 🔭 I just launched my first website: [Website][website]!
-- 🌱 I’m currently learning Spring,React and PostreSQL 
+- 🌱 I’m currently learning Spring,React and PostgreSQL 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play online games
 - 👯 My e-mail: 2027628@brunel.ac.uk
