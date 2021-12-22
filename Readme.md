@@ -5,7 +5,7 @@
 - 🔭 I just launched my first website: [Website][website]!
 - 🌱 I’m currently learning Spring,React and PostgreSQL 
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play online games
+- ⚡ Fun fact: I love to read books
 - 👯 My e-mail: 2027628@brunel.ac.uk
 
 ### Connect with me:
