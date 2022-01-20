@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Spring,React and PostgreSQL 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read books
-- 👯 My e-mail: 2027628@brunel.ac.uk
+- 👯 My e-mail: ansarshayekin1@gmail.com
 
 ### Connect with me:
 
