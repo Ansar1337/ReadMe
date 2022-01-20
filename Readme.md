@@ -5,7 +5,7 @@
 - 🔭 I just launched my first website: [Website][website]!
 - 🌱 I’m currently learning Spring,React and PostgreSQL 
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read books
+- ⚡ Fun fact: My top 3 books - 1984, Fahrenheit 451 and The Picture of Dorian Gray
 - 👯 My e-mail: ansarshayekin1@gmail.com
 
 ### Connect with me:
