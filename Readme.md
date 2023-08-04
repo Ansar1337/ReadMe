@@ -3,8 +3,8 @@
 ## I'm a Computer Science Student at Brunel University!
 
 - 🔭 I just launched my first website: [Website][website]!
-- 🌱 I’m currently learning Spring,React and PostgreSQL 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning Spring Boot and React 
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: My favourite books - 1984, Fahrenheit 451, The Picture of Dorian Gray, Requiem For A Dream and Greenlights
 - 👯 My e-mail: ansarshayekin1@gmail.com
 
